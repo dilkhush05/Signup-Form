@@ -26,4 +26,4 @@ This project is an attractive intro section with a signup form for a newsletter 
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/yourusername/intro-signup-form.git
+git clone https://github.com/dilkhush05/intro-signup-form.git
